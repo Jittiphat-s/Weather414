@@ -2,7 +2,7 @@
 ### Check the current weather of a city
 ## [click to view live](https://weather-ichbinsieger.vercel.app/)
 
-![visuals](https://github.com/ichbinsieger/weather/blob/Main/src/assets/screen.gif)
+
 ## Project setup
 ```
 npm install
