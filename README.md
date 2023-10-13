@@ -1,6 +1,6 @@
 # WeatherApp
 ### Check the current weather of a city
-## [click to view live](https://weather-ichbinsieger.vercel.app/)
+##
 
 
 ## Project setup
